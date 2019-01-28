@@ -1,4 +1,4 @@
-package com.cwgx.newhorizon;
+package com.cwgx.ses_events;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;

@@ -1,4 +1,4 @@
-package com.cwgx.newhorizon.model;
+package com.cwgx.ses_events.model;
 
 import javax.persistence.*;
 
